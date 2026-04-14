@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer · Founder · Bengaluru, India</h3>
 
 <p align="center">
-  <em>Building elegant, scalable web experiences — from database to deployment.<br/>Turning complex problems into clean, functional code.</em>
+  <em>Building full-stack systems powered by AI and MCP architectures.<br/>Transforming complex ideas into scalable, research-driven solutions.</em>
 </p>
 
 <p align="center">
