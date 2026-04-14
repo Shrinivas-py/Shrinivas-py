@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer · Founder · Bengaluru, India</h3>
 
 <p align="center">
-  <em>Building full-stack systems powered by AI and MCP architectures.<br/>Transforming complex ideas into scalable, research-driven solutions.</em>
+  <em>Designing scalable full-stack systems with AI, MCP architectures, and strong system design principles.<br/>Turning research-driven ideas into production-grade solutions.</em>
 </p>
 
 <p align="center">
