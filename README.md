@@ -111,7 +111,7 @@
 | B.E. Information Science | JSS Academy of Technical Education, Bengaluru | 2024–2028 | 9.4 CGPA |
 | Pre-University (PCMC) | Deeksha PU College, Bengaluru | 2022–2024 | 97% |
 
-🏅 Core Member — Google Developer Student Clubs · Student Placement Coordinator · Samyog Club · District-level Chess Participant
+🏅 Core Member — Google Developer Student Clubs · Student Placement Coordinator · Samyog Club · District-level Chess Participant..
 
 ---
 
