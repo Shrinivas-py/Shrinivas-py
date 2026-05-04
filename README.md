@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer · Founder · Bengaluru, India</h3>
 
 <p align="center">
-  <em>Designing scalable full-stack systems with AI, MCP architectures, and strong system design principles.<br/>Turning research-driven ideas into production-grade solutions.</em>
+  <em>Designing scalable full-stack systems with AI, MCP architectures, Automation Systems and strong system design principles.<br/>Turning research-driven ideas into production-grade solutions.</em>
 </p>
 
 <p align="center">
@@ -115,15 +115,3 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrinivas-py&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinivas-py&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🔥 Quote
-> *"Code. Create. Innovate. Repeat."*
