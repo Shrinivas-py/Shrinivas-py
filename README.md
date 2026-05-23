@@ -15,7 +15,7 @@
 
 ## 🌟 About Me
 
-- 🎓 **B.E. Information Science** — JSS Academy of Technical Education, Bengaluru (2024–2028) | CGPA: **9.4 / 10**
+- 🎓 **B.E. Information Science** — VTU, Bengaluru (2024–2028) | CGPA: **9.4 / 10**
 - 🏢 **Founder @ CapFolio** — Guiding traders through funded challenges, strategies & market insights
 - 💻 Passionate about **Full Stack Development, AI Agents & Open Source**
 - 🤝 Contributor at **GirlScript Summer of Code** & **Hacktoberfest**
