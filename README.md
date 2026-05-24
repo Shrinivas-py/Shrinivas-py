@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer · AI Automation · Startups · DSA · Bengaluru, India</h3>
 
 <p align="center">
-  <em>Designing scalable full-stack systems with AI, MCP architectures, Automation Systems and strong system design principles.<br/>Turning research-driven ideas into production-grade solutions.</em>
+  <em>Designing scalable full-stack systems with AI, Cybersecurity Automation Systems and strong system design principles.<br/>Turning research-driven ideas into production-grade solutions.</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 - 🎓 **B.E. Information Science** — VTU, Bengaluru (2024–2028) | CGPA: **9.4 / 10**
 - 🏢 **Founder @ CapFolio** — Guiding traders through funded challenges, strategies & market insights
-- 💻 Passionate about **Full Stack Development, AI Agents & Open Source**
+- 💻 Passionate about **Full Stack Development, AI Agents & Cybersecurity and Network Security**
 - 🤝 Contributor at **GirlScript Summer of Code** & **Hacktoberfest**
 - ⚡ Fun fact: I love turning ideas into reality with code
 
