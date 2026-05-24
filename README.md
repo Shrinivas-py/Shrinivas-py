@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shrinivas R J</h1>
-<h3 align="center">🚀 Full Stack Developer · AI Automation · Startups · DSA · Bengaluru, India</h3>
+<h3 align="center">🚀 Full Stack Developer · AI Automation · Startups · DSA · Cybersecurity </h3>
 
 <p align="center">
   <em>Designing scalable full-stack systems with AI, Cybersecurity Automation Systems and strong system design principles.<br/>Turning research-driven ideas into production-grade solutions.</em>
