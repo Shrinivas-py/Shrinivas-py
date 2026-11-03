@@ -16,7 +16,6 @@
 ## 🌟 About Me
 
 - 🎓 **B.E. Information Science** — VTU, Bengaluru (2024–2028) | CGPA: **9.4 / 10**
-- 🏢 **Founder @ CapFolio** — Guiding traders through funded challenges, strategies & market insights
 - 💻 Passionate about **Full Stack Development, AI Agents & Cybersecurity and Network Security**
 - 🤝 Contributor at **GirlScript Summer of Code** & **Hacktoberfest**
 - ⚡ Fun fact: I love turning ideas into reality with code
