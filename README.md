@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer  · Startups · DSA · Cybersecurity. </h3>
 
 <p align="center">
-  <em>Designing scalable full-stack systems with AI, Cybersecurity Automation Systems and strong system design principles.<br/>Turning research-driven ideas into production-grade solutions.</em>
+  <em>Designing scalable full-stack systems with AI, Cybersecurity Automation Systems and strong system design principles.<br/>Turning research-driven ideas into production-grade solution</em>
 </p>
 
 <p align="center">
