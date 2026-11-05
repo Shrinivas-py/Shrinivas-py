@@ -3,6 +3,7 @@
 
 <p align="center">
   <em>Designing scalable full-stack systems with AI, Cybersecurity Automation Systems and strong system design principles.<br/>Turning research-driven ideas into production-grade solution!</em>
+  <em>3rd year Engineering</em>
 </p>
 
 <p align="center">
