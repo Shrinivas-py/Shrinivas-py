@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Shrinivas</h1>
+<h1 align="center">Hi I'm Shrinivas.</h1>
 <h3 align="center">🚀 Full Stack Developer  · Startup · DSA · Cybersecurity. </h3>
 
 <p align="center">
